@@ -14,3 +14,8 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Michael-Olaoluwa&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Olaoluwa&layout=compact&theme=tokyonight)
+![Snake animation](https://github.com/Michael-Olaoluwa/Michael-Olaoluwa/blob/output/github-contribution-grid-snake.svg)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
