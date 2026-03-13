@@ -19,3 +19,4 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
 ![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+<a href="https://app.daily.dev/akogunmichael"><img src="https://api.daily.dev/devcards/v2/Ca535vGOxE9eAJFk96Oih.png?type=wide&r=lmo" width="652" alt="Akogun Michael's Dev Card"/></a>
