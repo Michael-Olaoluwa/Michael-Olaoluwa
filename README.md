@@ -12,9 +12,9 @@
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Olaoluwa&show_icons=true&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-Olaoluwa&show_icons=true&theme=tokyonight) ![GitHub Streak](https://streak-stats.demolab.com/?user=Michael-Olaoluwa&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Michael-Olaoluwa&theme=tokyonight)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-Olaoluwa&layout=compact&theme=tokyonight)
 
