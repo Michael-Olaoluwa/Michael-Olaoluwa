@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Telegran: 09045127201  Instagram:www.instagram.com/m._i._c._o
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Programming is a hubby
+- ⚡ Fun fact: Programming is a hobby
 
 <a href="https://app.daily.dev/akogunmichael"><img src="https://api.daily.dev/devcards/v2/Ca535vGOxE9eAJFk96Oih.png?type=wide&r=lmo" width="652" alt="Akogun Michael's Dev Card"/></a>
 
