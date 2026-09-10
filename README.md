@@ -46,7 +46,7 @@ A Telegram bot that scrapes job boards, rewrites postings in plain English with 
 
 **Stack:** Telegram Bot API · Supabase · Paystack
 
-[**Try it →**](https://jobalat.vercel.app) · [**@jobalat_bot**](https://t.me/jobalat_bot)
+[**Try it →**](https://jobalat.sage.vercel.app) · [**@jobalat_bot**](https://t.me/jobalat_bot)
 
 </td>
 <td width="33%" valign="top">
