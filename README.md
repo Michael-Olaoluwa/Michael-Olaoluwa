@@ -10,7 +10,7 @@
 
 <a href="https://linkedin.com/in/michael-olaoluwa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/Michael-Olaoluwa"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://jobalat.sage.vercel.app"><img src="https://img.shields.io/badge/JOBALAT-Live-6366F1?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://jobalat-sage.vercel.app"><img src="https://img.shields.io/badge/JOBALAT-Live-6366F1?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
 </div>
 
@@ -46,7 +46,7 @@ A Telegram bot that scrapes job boards, rewrites postings in plain English with 
 
 **Stack:** Telegram Bot API · Supabase · Paystack
 
-[**Try it →**](https://jobalat.sage.vercel.app) · [**@jobalat_bot**](https://t.me/jobalat_bot)
+[**Try it →**](https://jobalat-sage.vercel.app) · [**@jobalat_bot**](https://t.me/jobalat_bot)
 
 </td>
 <td width="33%" valign="top">
