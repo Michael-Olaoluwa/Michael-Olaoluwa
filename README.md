@@ -10,7 +10,7 @@
 
 <a href="https://linkedin.com/in/michael-olaoluwa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/Michael-Olaoluwa"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://jobalat-sage.vercel.app"><img src="https://img.shields.io/badge/JOBALAT-Live-6366F1?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://jobalat.vercel.app"><img src="https://img.shields.io/badge/JOBALAT-Live-6366F1?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
 </div>
 
@@ -27,49 +27,33 @@ I'm Mike — founder of **Crymson**, a studio built around one idea: find real p
 
 <br/>
 
-## 🚀 Products I've Shipped
+<div align="center">
 
-<table>
-<tr>
-<td width="33%" valign="top">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-### 🛡️ Watchtower
-A GitHub-connected deployment monitor. Catches production errors on Vercel/Render, explains them in plain English, and lets you roll back to your last working commit — straight from Telegram.
+</div>
 
-**Stack:** React · Supabase · Deno Edge Functions · Groq
+<br/>
 
-</td>
-<td width="33%" valign="top">
+<div align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+</div>
 
-### 💼 JOBALAT
-A Telegram bot that scrapes job boards, rewrites postings in plain English with AI, and sends personalized job alerts straight to your DMs.
+<br/>
 
-**Stack:** Telegram Bot API · Supabase · Paystack
+<div align="center">
 
-[**Try it →**](https://jobalat-sage.vercel.app) · [**@jobalat_bot**](https://t.me/jobalat_bot)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Michael-Olaoluwa&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7)
 
-</td>
-<td width="33%" valign="top">
+</div>
 
-### 🔗 EazeShare
-Peer-to-peer file and text sharing — no accounts, no size limits, no server storage. Devices connect directly over WebRTC via a code or QR scan.
+<br/>
 
-**Stack:** React 19 · WebRTC · Supabase Realtime
+<div align="center">
 
-</td>
-</tr>
-</table>
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Github/main/other-gifs/handshake.gif" width="380"/>
 
-<table>
-<tr>
-<td width="100%" valign="top">
-
-### 🏙️ OneEko
-Civic incident-reporting and government-communication platform for Lagos State — bridging the gap between citizens and government. Built and led as part of an internship with the LASG Ministry of Innovation, Science & Technology.
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
