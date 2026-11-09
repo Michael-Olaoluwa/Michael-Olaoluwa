@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-label="Michael Olaoluwa, Founder of Crymson Solutions">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#800020"/>
+      <stop offset="1" stop-color="#14070b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="260" rx="18" fill="url(#bg)"/>
+  <circle cx="880" cy="40" r="140" fill="#ffffff" opacity="0.05"/>
+  <circle cx="940" cy="230" r="90" fill="#ffffff" opacity="0.05"/>
+  <text x="60" y="110" font-family="Georgia, 'Times New Roman', serif" font-size="56" font-weight="700" fill="#ffffff">Michael Olaoluwa</text>
+  <text x="62" y="155" font-family="'Segoe UI', Arial, sans-serif" font-size="24" fill="#f3d9de">Founder @ Crymson Solutions</text>
+  <text x="62" y="200" font-family="'Segoe UI', Arial, sans-serif" font-size="20" fill="#ffffff" opacity="0.85">I build software by starting with problems, not technology.</text>
+</svg>

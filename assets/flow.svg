@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150" role="img" aria-label="Find a problem, understand it, build a solution, put it in people's hands">
+  <defs>
+    <marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#800020"/>
+    </marker>
+  </defs>
+  <g font-family="'Segoe UI', Arial, sans-serif" text-anchor="middle">
+    <rect x="10" y="30" width="205" height="90" rx="14" fill="#800020"/>
+    <text x="112" y="68" font-size="30" fill="#fff" font-weight="700">1</text>
+    <text x="112" y="99" font-size="19" fill="#fff">Find a problem</text>
+    <rect x="262" y="30" width="205" height="90" rx="14" fill="#800020"/>
+    <text x="364" y="68" font-size="30" fill="#fff" font-weight="700">2</text>
+    <text x="364" y="99" font-size="19" fill="#fff">Understand it</text>
+    <rect x="515" y="30" width="205" height="90" rx="14" fill="#800020"/>
+    <text x="617" y="68" font-size="30" fill="#fff" font-weight="700">3</text>
+    <text x="617" y="99" font-size="19" fill="#fff">Build a solution</text>
+    <rect x="767" y="30" width="223" height="90" rx="14" fill="#800020"/>
+    <text x="878" y="68" font-size="30" fill="#fff" font-weight="700">4</text>
+    <text x="878" y="99" font-size="19" fill="#fff">Ship it to people</text>
+  </g>
+  <g stroke="#800020" stroke-width="3" marker-end="url(#a)" fill="none">
+    <line x1="218" y1="75" x2="258" y2="75"/>
+    <line x1="470" y1="75" x2="511" y2="75"/>
+    <line x1="723" y1="75" x2="763" y2="75"/>
+  </g>
+</svg>
