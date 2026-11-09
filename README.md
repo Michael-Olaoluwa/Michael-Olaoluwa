@@ -76,6 +76,10 @@ I'm a final-year Computer Science student at **Covenant University** and the fou
 ## 🐍 Contribution activity
 
 <p align="center">
+  <img src="assets/streak.svg" alt="Contribution streak" width="70%"/>
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Michael-Olaoluwa/Michael-Olaoluwa/output/github-snake-dark.svg"/>
     <img alt="Contribution snake" src="https://raw.githubusercontent.com/Michael-Olaoluwa/Michael-Olaoluwa/output/github-snake.svg" width="100%"/>
