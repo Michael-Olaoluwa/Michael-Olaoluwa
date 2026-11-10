@@ -2,9 +2,9 @@
   <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#800020"/><stop offset="1" stop-color="#14070b"/></linearGradient></defs>
   <rect width="700" height="170" rx="16" fill="url(#g)"/>
   <g font-family="'Segoe UI', Arial, sans-serif">
-    <text x="117" y="88" text-anchor="middle" font-size="44" font-weight="700" fill="#ffffff">542</text><text x="117" y="122" text-anchor="middle" font-size="16" fill="#f3d9de">Total contributions</text>
-    <text x="350" y="88" text-anchor="middle" font-size="44" font-weight="700" fill="#ff8fa3">8</text><text x="350" y="122" text-anchor="middle" font-size="16" fill="#f3d9de">Current streak (days)</text>
-    <text x="583" y="88" text-anchor="middle" font-size="44" font-weight="700" fill="#ffffff">8</text><text x="583" y="122" text-anchor="middle" font-size="16" fill="#f3d9de">Longest streak (days)</text>
+    <text x="117" y="88" text-anchor="middle" font-size="44" font-weight="700" fill="#ffffff">543</text><text x="117" y="122" text-anchor="middle" font-size="16" fill="#f3d9de">Total contributions</text>
+    <text x="350" y="88" text-anchor="middle" font-size="44" font-weight="700" fill="#ff8fa3">9</text><text x="350" y="122" text-anchor="middle" font-size="16" fill="#f3d9de">Current streak (days)</text>
+    <text x="583" y="88" text-anchor="middle" font-size="44" font-weight="700" fill="#ffffff">9</text><text x="583" y="122" text-anchor="middle" font-size="16" fill="#f3d9de">Longest streak (days)</text>
     <line x1="233" y1="45" x2="233" y2="130" stroke="#ffffff" opacity="0.2"/>
     <line x1="467" y1="45" x2="467" y2="130" stroke="#ffffff" opacity="0.2"/>
     <text x="350" y="155" text-anchor="middle" font-size="12" fill="#ffffff" opacity="0.55">Updated 2026-11-10 UTC</text>
